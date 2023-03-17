@@ -1,2 +1,2 @@
 # Biomedical-Signal-Processing
-This consisits of codes for signal processing in biomedical.
+This consists of codes for signal processing in biomedical.
